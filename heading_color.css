@@ -1,0 +1,55 @@
+.theme-light {
+  --my-header-color: #331c14;
+  --my-header-line-color: #e0e0e0;
+}
+
+.theme-dark {
+  --my-header-color: #CDD9E3;
+  --my-header-line-color: #404040;
+}
+
+/* .inline-title {
+  color: var(--my-header-color);
+} */
+
+.HyperMD-header.HyperMD-header-1.cm-line,
+.markdown-preview-view h1 {
+  padding-bottom: 5px !important;
+  color: var(--my-header-color);
+  border-bottom: dotted 1px var(--my-header-line-color);
+}
+
+.HyperMD-header.HyperMD-header-2.cm-line,
+.markdown-preview-view h2 {
+  padding-bottom: 4px !important;
+  color: var(--my-header-color);
+  border-bottom: dotted 1px var(--my-header-line-color);
+}
+
+.HyperMD-header.HyperMD-header-3.cm-line,
+.markdown-preview-view h3 {
+  padding-bottom: 3px !important;
+  color: var(--my-header-color);
+  border-bottom: dotted 1px var(--my-header-line-color);
+}
+
+.HyperMD-header.HyperMD-header-4.cm-line,
+.markdown-preview-view h4 {
+  padding-bottom: 2px !important;
+  color: var(--my-header-color);
+  border-bottom: dotted 1px var(--my-header-line-color);
+}
+
+.HyperMD-header.HyperMD-header-5.cm-line,
+.markdown-preview-view h5 {
+  padding-bottom: 1px !important;
+  color: var(--my-header-color);
+  border-bottom: dotted 1px var(--my-header-line-color);
+}
+
+.HyperMD-header.HyperMD-header-6.cm-line,
+.markdown-preview-view h6 {
+  padding-bottom: 0px !important;
+  color: var(--my-header-color);
+  border-bottom: dotted 1px var(--my-header-line-color);
+}

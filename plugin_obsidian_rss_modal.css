@@ -1,0 +1,18 @@
+.rss-modal {
+  padding: 25px;
+  background: var(--background-secondary);
+}
+
+.rss-modal .rss-button {
+  margin: 3px 2px;
+}
+
+.rss-modal .rss-title {
+  font-size: 1.5em;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.rss-modal .rss-subtitle {
+  font-size: 1.2em;
+}
