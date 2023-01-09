@@ -7,7 +7,7 @@
 }
 
 .HyperMD-header.HyperMD-header-1.cm-line:hover:before,
-.HyperMD-header.HyperMD-header-1.cm-line.cm-active:before {
+.cm-formatting.cm-formatting-header.cm-formatting-header-1.cm-header.cm-header-1:before {
   content: "H1";
   font-size: 14px;
   color: var(--my-header-level-display-color);
@@ -17,7 +17,7 @@
 }
 
 .HyperMD-header.HyperMD-header-2.cm-line:hover:before,
-.HyperMD-header.HyperMD-header-2.cm-line.cm-active:before {
+.cm-formatting.cm-formatting-header.cm-formatting-header-2.cm-header.cm-header-2:before {
   content: "H2";
   font-size: 13px;
   color: var(--my-header-level-display-color);
@@ -27,7 +27,7 @@
 }
 
 .HyperMD-header.HyperMD-header-3.cm-line:hover:before,
-.HyperMD-header.HyperMD-header-3.cm-line.cm-active:before {
+.cm-formatting.cm-formatting-header.cm-formatting-header-3.cm-header.cm-header-3:before {
   content: "H3";
   font-size: 12px;
   color: var(--my-header-level-display-color);
@@ -37,7 +37,7 @@
 }
 
 .HyperMD-header.HyperMD-header-4.cm-line:hover:before,
-.HyperMD-header.HyperMD-header-4.cm-line.cm-active:before {
+.cm-formatting.cm-formatting-header.cm-formatting-header-4.cm-header.cm-header-4:before {
   content: "H4";
   font-size: 11px;
   color: var(--my-header-level-display-color);
@@ -47,7 +47,7 @@
 }
 
 .HyperMD-header.HyperMD-header-5.cm-line:hover:before,
-.HyperMD-header.HyperMD-header-5.cm-line.cm-active:before {
+.cm-formatting.cm-formatting-header.cm-formatting-header-5.cm-header.cm-header-5:before {
   content: "H5";
   font-size: 10px;
   color: var(--my-header-level-display-color);
@@ -57,7 +57,7 @@
 }
 
 .HyperMD-header.HyperMD-header-6.cm-line:hover:before,
-.HyperMD-header.HyperMD-header-6.cm-line.cm-active:before {
+.cm-formatting.cm-formatting-header.cm-formatting-header-6.cm-header.cm-header-6:before {
   content: "H6";
   font-size: 9px;
   color: var(--my-header-level-display-color);
